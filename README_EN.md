@@ -1,3 +1,5 @@
+**EN**
+[RU](https://github.com/Michaelionin/TF2_Android/blob/main/README.md)  
 # Team Fortress 2 on Android  
 We will need:  
 1) A powerful modern smartphone or tablet with Android 12 or higher  
